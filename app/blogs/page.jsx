@@ -115,7 +115,7 @@ export default async function AllBlogs() {
               <br />
             </Grid>
 
-            <br />
+            <br></br>
             <br />
             <br />
             <br />
